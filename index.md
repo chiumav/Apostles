@@ -1,3 +1,9 @@
+
+<!-- 不使用快取 -->
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+
 # 5R-團務-亞薩鐸之使徒 Apostles of Azador
 
 ### 團務
